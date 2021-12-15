@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tremah
+- 👋 Hi, I’m Tremah
 - 👀 I’m interested in programming, music and books
 - 🌱 I’m currently learning C++, OpenGL
 - 💞️ I’m looking to collaborate on my game engine TremEngine (https://github.com/Tremah/TremEngine)
